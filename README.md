@@ -6,7 +6,13 @@ I'm [Michael Siu](https://www.michaeltsiu.com/) 👋
 ![living](https://img.shields.io/badge/living-LosAngeles-dodgerblue)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=michaeltsiu)
 
-<img align="right" alt="PIC" width = "150px" height="150px" src="./cat.gif" />
+I love to make lines of code come to life 👨‍💻
+
+<br/>
+<hr>
+<br/>
+
+<img align="right" alt="PIC" width = "200px" height="200px" src="./cat.gif" />
 
 <div>
   <h3> 👨🏻‍💻 About Me </h3>

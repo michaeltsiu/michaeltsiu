@@ -16,7 +16,7 @@ I'm [Michael Siu](https://www.michaeltsiu.com/)👋
     - 👯 I’m looking to collaborate on anything
     - 💬 Ask me about anything [here](https://github.com/michaeltsiu/michaeltsiu/issues)
   </div>
-  <img style="margin-top: 30px" src="https://media1.tenor.com/images/dcc432fbec7be7df8faf4de782a4e453/tenor.gif?itemid=7476464" width="150" height="150">
+  <img style="margin-top: 30px" src="./cat.gif" width="230" height="230">
 </div>
 
 <div>

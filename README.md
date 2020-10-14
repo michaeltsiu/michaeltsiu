@@ -12,10 +12,12 @@ I love to make lines of code come to life 👨‍💻
 <hr>
 <br/>
 
-<img align="right" alt="PIC" width = "200px" height="200px" src="./cat.gif" />
-
 <div>
+
+<span>
+  <img align="right" alt="PIC" width = "200px" height="200px" src="./cat.gif" />
   <h3> 👨🏻‍💻 About Me </h3>
+</span>
 
   - 🌱 I’m currently learning: Next.JS and GraphQL
   - 💡 Curious about anything and everything

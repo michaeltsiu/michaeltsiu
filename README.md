@@ -8,16 +8,13 @@ I'm [Michael Siu](https://www.michaeltsiu.com/) 👋
 
 I love to make lines of code come to life 👨‍💻
 
-<br/>
 <hr>
-<br/>
-
 <div>
 
-<span>
-  <img align="right" alt="PIC" width = "200px" height="200px" src="./cat.gif" />
-  <h3> 👨🏻‍💻 About Me </h3>
-</span>
+  <span>
+    <img align="right" alt="PIC" width = "200px" height="200px" src="./cat.gif" />
+    <h3> 👨🏻‍💻 About Me </h3>
+  </span>
 
   - 🌱 I’m currently learning: Next.JS and GraphQL
   - 💡 Curious about anything and everything
@@ -26,7 +23,6 @@ I love to make lines of code come to life 👨‍💻
   - 👯 I’m looking to collaborate on anything
   - 💬 Ask me about anything [here](https://github.com/michaeltsiu/michaeltsiu/issues)
 </div>
-
 
 <div>
   <h3> 💻 Languages and Tools </h3>

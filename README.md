@@ -12,12 +12,11 @@
   </span>
 
   - 🌱 I’m currently learning: Next.JS and GraphQL
-  - 👨‍💻 Check out what I've created [here](https://www.michaeltsiu.com/)
   - 💡 Curious about anything and everything
   - ♥ Loves Computers, Programming, the Outdoors and Gaming
   - 🤔 Exploring new technologies and developing software solutions and quick hacks.
   - 👯 I’m looking to collaborate on anything
-  - 💬 Ask me about anything [here](https://github.com/michaeltsiu/michaeltsiu/issues)
+  - 👨‍💻 Check out what I've created [here](https://www.michaeltsiu.com/)
 </div>
 
 <div>

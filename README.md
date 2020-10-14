@@ -1,12 +1,7 @@
-### Hello World <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="27px">
-I'm [Michael Siu](https://www.michaeltsiu.com/) 👋
-
 ![age](https://img.shields.io/badge/age-25-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-LosAngeles-dodgerblue)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=michaeltsiu)
-
-I love to make lines of code come to life 👨‍💻
 
 <hr>
 <div>
@@ -17,6 +12,7 @@ I love to make lines of code come to life 👨‍💻
   </span>
 
   - 🌱 I’m currently learning: Next.JS and GraphQL
+  - 👨‍💻 Check out what I've created [here](https://www.michaeltsiu.com/)
   - 💡 Curious about anything and everything
   - ♥ Loves Computers, Programming, the Outdoors and Gaming
   - 🤔 Exploring new technologies and developing software solutions and quick hacks.

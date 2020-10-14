@@ -1,23 +1,24 @@
 ### Hello World <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="27px">
-I'm [Michael Siu](https://www.michaeltsiu.com/)👋
+I'm [Michael Siu](https://www.michaeltsiu.com/) 👋
 
 ![age](https://img.shields.io/badge/age-25-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-LosAngeles-dodgerblue)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=michaeltsiu)
-<div style="display: flex">
-  <div>
-    <h3> 👨🏻‍💻 About Me </h3>
 
-    - 🌱 I’m currently learning: Next.JS and GraphQL
-    - 💡 Curious about anything and everything
-    - ❤️ Loves Computers, Programming, the Outdoors and Gaming
-    - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-    - 👯 I’m looking to collaborate on anything
-    - 💬 Ask me about anything [here](https://github.com/michaeltsiu/michaeltsiu/issues)
-  </div>
-  <img style="margin-top: 30px" src="./cat.gif" width="230" height="230">
+<img width = "35%" align="right" alt="PIC" height="300px" src="./cat.gif" />
+
+<div>
+  <h3> 👨🏻‍💻 About Me </h3>
+
+  - 🌱 I’m currently learning: Next.JS and GraphQL
+  - 💡 Curious about anything and everything
+  - ♥ Loves Computers, Programming, the Outdoors and Gaming
+  - 🤔 Exploring new technologies and developing software solutions and quick hacks.
+  - 👯 I’m looking to collaborate on anything
+  - 💬 Ask me about anything [here](https://github.com/michaeltsiu/michaeltsiu/issues)
 </div>
+
 
 <div>
   <h3> 💻 Languages and Tools </h3>

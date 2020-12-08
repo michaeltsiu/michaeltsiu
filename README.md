@@ -11,7 +11,7 @@
     <h3> 👨🏻‍💻 About Me </h3>
   </span>
 
-  - 🌱 I’m currently learning: Next.JS and GraphQL
+  - 🌱 I’m currently studying: More about Data structure and Algorithms
   - 💡 Curious about anything and everything
   - ♥ Loves Computers, Programming, the Outdoors and Gaming
   - 🤔 Exploring new technologies and developing software solutions and quick hacks.

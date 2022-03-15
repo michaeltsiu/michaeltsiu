@@ -16,7 +16,6 @@
   - ♥ Loves Computers, Programming, the Outdoors and Gaming
   - 🤔 Exploring new technologies and developing software solutions and quick hacks.
   - 👯 I’m looking to collaborate on anything
-  - 👨‍💻 Check out what I've created [here](https://www.michaeltsiu.com/)
 </div>
 
 <div>

@@ -14,7 +14,7 @@
   - 🌱 I’m currently studying: More about Data structure and Algorithms
   - 💡 Curious about anything and everything
   - ♥ Loves Computers, Programming, the Outdoors and Gaming
-  - 🤔 Exploring new technologies and developing software solutions and quick hacks.
+  - 🤔 Exploring new technologies and developing software solutions.
   - 👯 I’m looking to collaborate on anything
   - 💬 Ask me about my transition from IT Technician to Software Engineer
 </section>

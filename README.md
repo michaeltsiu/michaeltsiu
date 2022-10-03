@@ -16,7 +16,7 @@
   - ♥ Loves Computers, Programming, the Outdoors and Gaming
   - 🤔 Exploring new technologies and developing software solutions.
   - 👯 I’m looking to collaborate on anything
-  - 💬 Ask me about my transition from IT Technician to Software Engineer
+  - 💬 Ask me about my transition from IT to Software Engineer
 </section>
 
 <section>

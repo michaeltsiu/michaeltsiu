@@ -1,5 +1,5 @@
 ![age](https://img.shields.io/badge/age-27-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![focus](https://img.shields.io/badge/focus-FrontEnd-brightgreen)
 ![living](https://img.shields.io/badge/living-LosAngeles-dodgerblue)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=michaeltsiu)
 

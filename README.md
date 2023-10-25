@@ -1,7 +1,6 @@
 ![age](https://img.shields.io/badge/age-28-blue)
 ![focus](https://img.shields.io/badge/focus-FrontEnd-brightgreen)
 ![living](https://img.shields.io/badge/living-LosAngeles-dodgerblue)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=michaeltsiu)
 [![HitCount](https://hits.dwyl.com/michaeltsiu/michaeltsiu.svg?style=flat-square)](http://hits.dwyl.com/michaeltsiu/michaeltsiu)
 
 <hr>
